@@ -1,0 +1,7 @@
+# Dataset Description
+
+This project uses a private geospatial dataset from IRS satellite imagery with low-resolution (64x64) and high-resolution (256x256) images. Due to confidentiality, it cannot be shared. Details:
+- LR Images: 64x64 pixels, RGB, normalized to [0,1].
+- HR Images: 256x256 pixels, RGB, normalized to [0,1].
+- Source: NRSC (private).
+- Usage: Training and evaluation of SRCNN, SRGAN model
