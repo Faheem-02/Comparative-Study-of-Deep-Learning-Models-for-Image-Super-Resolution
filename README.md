@@ -4,8 +4,8 @@
   <h1>Comparative Study of Deep Learning Models for Image Super-Resolution</h1>
   <p><strong>Performance Evaluation of SRCNN and SRGAN for Geospatial Image Super-Resolution: A Comparative Study on Metrics and Data Preparation Approaches</strong></p>
   
-  [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-  [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+  [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+  [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
   [![Repo Size](https://img.shields.io/github/repo-size/Faheem-02/Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution)](https://github.com/Faheem-02/Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution)
   
