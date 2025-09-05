@@ -31,7 +31,6 @@ The dataset used in this project cannot be shared due to security reasons
 - **Visualizations:** Sample comparisons, loss curves, metric distributions, and error analysis.
 
 ## 🛠️ Installation
-1. Clone the repository:
    ```bash
    git clone https://github.com/Faheem-02/Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution.git
    cd Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution
