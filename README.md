@@ -12,18 +12,6 @@
   <p>Enhancing geospatial imagery using SRCNN and SRGAN: From low-res satellite photos to high-res masterpieces! 🚀🛰️</p>
 </div>
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Architectures](#model-architectures)
-- [Results and Analysis](#results-and-analysis)
-- [References](#references)
-- [License](#license)
-- [Contact](#contact)
-
 ## 🌟 Overview
 This repository presents a comparative analysis of two pioneering deep learning models for image super-resolution (SR) applied to geospatial imagery: **SRCNN** (Super-Resolution Convolutional Neural Network) and **SRGAN** (Super-Resolution Generative Adversarial Network). We evaluate their performance on metrics like PSNR, SSIM, and MSE, using augmented datasets of low-resolution (LR) and high-resolution (HR) satellite images.
 
