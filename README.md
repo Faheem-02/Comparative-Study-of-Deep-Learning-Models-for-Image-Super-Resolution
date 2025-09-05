@@ -26,7 +26,7 @@ _Note:_Due to limited resources we trained both the models for 80epochs, To achi
 The dataset used in this project cannot be shared due to security reasons
 
 ## ✨ Features- 
--**Model Implementations:** Full code for [SRCNN](src/srcnn.py) and [SRGAN Final](src/srgan-final.py) [SRGAN Variant](src/srgan-f1.py)
+-**Model Implementations:** Full code for [SRCNN](src/srcnn.py) and [SRGAN Final](src/srgan-final.py), [SRGAN Variant](src/srgan-f1.py)
 - **Evaluation Metrics:** PSNR, SSIM, MSE with visualizations (histograms, error maps, bar charts).
 - **Data Preparation:** Image loading, augmentation, and RGB/BGR handling for VGG compatibility.
 - **Training Loops:** Custom learning rate schedules, adversarial training for SRGAN.
