@@ -7,7 +7,7 @@
   [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
   [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-  [![Repo Size](https://img.shields.io/github/repo-size/Faheem-02/Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution)](https://github.com/Faheem-02/Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution)
+  [![Repo Size](https://img.shields.io/github/repo-size/Faheem-02/Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution-green.svg)](https://github.com/Faheem-02/Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution)
   
   <p>Enhancing geospatial imagery using SRCNN and SRGAN: From low-res satellite photos to high-res masterpieces! 🚀🛰️</p>
 </div>
