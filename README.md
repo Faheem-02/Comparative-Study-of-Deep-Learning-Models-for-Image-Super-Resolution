@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/Faheem-02/Comparative-Study-of-Deep-Learning-Models-for-Image-Super-Resolution/blob/main/images/banner.png" alt="Project Banner" width="100%"/>
-</p>
 
   <h1>Comparative Study of Deep Learning Models for Image Super-Resolution</h1>
   <p><strong>Performance Evaluation of SRCNN and SRGAN for Geospatial Image Super-Resolution: A Comparative Study on Metrics and Data Preparation Approaches</strong></p>
